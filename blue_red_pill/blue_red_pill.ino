@@ -15,9 +15,6 @@ void setup()
 {
    Serial.begin(9600);
    screen.begin();
-   delay(100);
-   Serial.print(F("Go ahead, touch my face-plate...\n"));
-   screen.setTextSize(3);
 }
 
 /**
