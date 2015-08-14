@@ -34,8 +34,17 @@ The projects here that are designed to work with the inotool are located in ino-
 * picocom
 
 ## Building and Uploading
-1. ino build -m pro5v328
-2. ino upload -m pro5v328
+
+Using ino directly:
+
+  ino build -m pro5v328
+  ino upload -m pro5v328
+
+Using ino-projects/pico-ino.py
+
+  cd draw
+  ../pico-ino.py build
+  ../pico-ino.py upload
 
 ## Monitor the serial output
 1. ino serial
