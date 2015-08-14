@@ -17,7 +17,7 @@ All of these projects used Arduino IDE
 # INO
 If you're not a fan of the editor on the Arduino IDE then I suggest you use 'ino'.
 This allows you to use your favorite editor and then use 'ino' on the command line
-to build your progrma.
+to build your program.
 
 The projects here that are designed to work with the inotool are located in ino-projects
 
