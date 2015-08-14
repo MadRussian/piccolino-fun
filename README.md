@@ -37,14 +37,14 @@ The projects here that are designed to work with the inotool are located in ino-
 
 Using ino directly:
 
-  ino build -m pro5v328
-  ino upload -m pro5v328
+    ino build -m pro5v328
+    ino upload -m pro5v328
 
 Using ino-projects/pico-ino.py
 
-  cd draw
-  ../pico-ino.py build
-  ../pico-ino.py upload
+    cd draw
+    ../pico-ino.py build
+    ../pico-ino.py upload
 
 ## Monitor the serial output
 1. ino serial
